@@ -1,6 +1,5 @@
 import React,{Component} from "react";
-// @ts-ignore
-//import {ReactLogo } from 'react-logo';
+
 
 class App extends Component {
 
